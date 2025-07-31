@@ -1,0 +1,7 @@
+users:
+- username: Rocky
+  roles: [admin]
+- username: Chadwick
+  roles: [readonly]
+- username: John
+  roles: [Audit,Billing]
